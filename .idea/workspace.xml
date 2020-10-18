@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24752204-65db-4022-af48-22bb9df3c5ef" name="Default Changelist" comment="" />
+    <list default="true" id="24752204-65db-4022-af48-22bb9df3c5ef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/passing-values-nested/passing-values-nested.md" beforeDir="false" afterPath="$PROJECT_DIR$/passing-values-nested/passing-values-nested.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +34,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
@@ -68,7 +71,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../rx-angular" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -90,6 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603031158439</updated>
       <workItem from="1603031161380" duration="5920000" />
+      <workItem from="1603049286115" duration="304000" />
     </task>
     <task id="LOCAL-00001" summary="added initial perf files">
       <created>1603048025083</created>
@@ -98,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603048025083</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add passing-values-nested image">
+      <created>1603049329680</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603049329680</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,20 +125,26 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added initial perf files" />
-    <option name="LAST_COMMIT_MESSAGE" value="added initial perf files" />
+    <MESSAGE value="add passing-values-nested image" />
+    <option name="LAST_COMMIT_MESSAGE" value="add passing-values-nested image" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2660" y="274" key="FileChooserDialogImpl" timestamp="1603043349811">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2660" y="274" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603043349811" />
-    <state x="2472" y="234" key="Vcs.Push.Dialog.v2" timestamp="1603048026787">
+    <state x="2472" y="234" key="Vcs.Push.Dialog.v2" timestamp="1603049331827">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2472" y="234" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603048026787" />
+    <state x="2472" y="234" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603049331827" />
+    <state x="2687" y="429" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603049298011">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2687" y="429" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603049298011" />
     <state x="2536" y="240" key="run.anything.popup" timestamp="1603047967424">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
