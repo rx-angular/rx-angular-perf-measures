@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24752204-65db-4022-af48-22bb9df3c5ef" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/passing-values-nested/passing-values-nested.md" beforeDir="false" afterPath="$PROJECT_DIR$/passing-values-nested/passing-values-nested.md" afterDir="false" />
-    </list>
+    <list default="true" id="24752204-65db-4022-af48-22bb9df3c5ef" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603031158439</updated>
       <workItem from="1603031161380" duration="5920000" />
-      <workItem from="1603049286115" duration="304000" />
+      <workItem from="1603049286115" duration="835000" />
     </task>
     <task id="LOCAL-00001" summary="added initial perf files">
       <created>1603048025083</created>
@@ -109,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603049329680</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add passing-values-nested image and description">
+      <created>1603049660995</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603049660995</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,17 +135,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added initial perf files" />
     <MESSAGE value="add passing-values-nested image" />
-    <option name="LAST_COMMIT_MESSAGE" value="add passing-values-nested image" />
+    <MESSAGE value="add passing-values-nested image and description" />
+    <option name="LAST_COMMIT_MESSAGE" value="add passing-values-nested image and description" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2660" y="274" key="FileChooserDialogImpl" timestamp="1603043349811">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2660" y="274" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603043349811" />
-    <state x="2472" y="234" key="Vcs.Push.Dialog.v2" timestamp="1603049331827">
+    <state x="2472" y="234" key="Vcs.Push.Dialog.v2" timestamp="1603049668296">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2472" y="234" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603049331827" />
+    <state x="2472" y="234" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603049668296" />
     <state x="2687" y="429" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603049298011">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
