@@ -44,7 +44,9 @@ yarn nx run demos-e2e:e2e --watch
 
 The `--watch` flag is optional. Report files will be generated in the directory of your codebase. Those files can be loaded to the "JavaScript Profiler" or "Performance" tabs in Devtools. Or you can use [Devtools Timeline Viewer](https://chromedevtools.github.io/timeline-viewer/) to also see it.
 
-![BootstrappingPassing Values Nested](https://github.com/rx-angular/rx-angular-perf-measures/blob/main/automated-measurement/automated-measurement.png)
+![Cypress side effect detail](https://github.com/rx-angular/rx-angular-perf-measures/blob/main/automated-measurement/cypress_artefact_1.png)
+![Cypress side effect over time](https://github.com/rx-angular/rx-angular-perf-measures/blob/main/automated-measurement/cypress_artefact_2.png)
+
 
 ## Implementations
 
