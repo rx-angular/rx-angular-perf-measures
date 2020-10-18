@@ -3,9 +3,9 @@
 ---
 
 **Measurements:**
-- [Comparison Overview](https://chromedevtools.github.io/timeline-viewer/?loadTimelineFromURL=https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/automated-measurement/automated-measurement__push__template%401.0.0-bata.0.json?dl=0,https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/automated-measurement/automated-measurement__rx-let__template%401.0.0-bata.0.json?dl=0)
-- [Use push pipe to render values](https://chromedevtools.github.io/timeline-viewer/?loadTimelineFromURL=https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/automated-measurement/automated-measurement__push__template%401.0.0-bata.0.json?dl=0)
-- [Use push rxLet to render values](https://chromedevtools.github.io/timeline-viewer/?loadTimelineFromURL=https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/automated-measurement/automated-measurement__rx-let__template%401.0.0-bata.0.json?dl=0)
+- [Comparison Overview](https://chromedevtools.github.io/timeline-viewer/?loadTimelineFromURL=https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/automated-measurement/automated-measurement__push__template%401.0.0-beta.0.json?dl=0,https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/automated-measurement/automated-measurement__push__template%401.0.0-beta.0.json?dl=0)
+- [Use push pipe to render values](https://chromedevtools.github.io/timeline-viewer/?loadTimelineFromURL=https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/automated-measurement/automated-measurement__push__template%401.0.0-beta.0.json?dl=0)
+- [Use push rxLet to render values](https://chromedevtools.github.io/timeline-viewer/?loadTimelineFromURL=https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/automated-measurement/automated-measurement__push__template%401.0.0-beta.0.json?dl=0)
 
 ---
 
