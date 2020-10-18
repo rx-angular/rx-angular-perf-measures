@@ -19,7 +19,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24752204-65db-4022-af48-22bb9df3c5ef" name="Default Changelist" comment="" />
+    <list default="true" id="24752204-65db-4022-af48-22bb9df3c5ef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/bootstrapping-passed-value-nested/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrapping-passed-value-nested/bootstrapping-passed-value-nested.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrapping-passed-value-nested/bootstrapping-passed-value-nested__async__template@1.0.0-bata.0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrapping-passed-value-nested/bootstrapping-passed-value-nested__observable__template@1.0.0-bata.0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrapping-passed-value-nested/bootstrapping-passed-value-nested__push__template@1.0.0-bata.0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrapping-passed-value-nested/bootstrapping-passed-value-nested__rx-let-component__template@1.0.0-bata.0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrapping-passed-value-nested/bootstrapping-passed-value-nested__rx-let-embedded-view__template@1.0.0-bata.0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrapping-passed-value-nested/bootstrapping-passed-value-nested__static__template@1.0.0-bata.0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eager-vs-lazy-template/list-10000.md" beforeDir="false" afterPath="$PROJECT_DIR$/eager-vs-lazy-template/Readme.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,11 +84,12 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\micha\git\rx-angular-perf-measures\passing-values-nested" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\micha\git\rx-angular-perf-measures\eager-vs-lazy-template" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\micha\git\rx-angular-perf-measures" />
+      <recent name="C:\Users\micha\git\rx-angular-perf-measures\passing-values-nested" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -91,7 +103,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603031158439</updated>
       <workItem from="1603031161380" duration="5920000" />
-      <workItem from="1603049286115" duration="835000" />
+      <workItem from="1603049286115" duration="2445000" />
     </task>
     <task id="LOCAL-00001" summary="added initial perf files">
       <created>1603048025083</created>
@@ -114,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603049660995</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update links, renamed file">
+      <created>1603050254947</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603050254947</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,17 +155,26 @@
     <MESSAGE value="added initial perf files" />
     <MESSAGE value="add passing-values-nested image" />
     <MESSAGE value="add passing-values-nested image and description" />
-    <option name="LAST_COMMIT_MESSAGE" value="add passing-values-nested image and description" />
+    <MESSAGE value="update links, renamed file" />
+    <option name="LAST_COMMIT_MESSAGE" value="update links, renamed file" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2660" y="274" key="FileChooserDialogImpl" timestamp="1603043349811">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2660" y="274" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603043349811" />
-    <state x="2472" y="234" key="Vcs.Push.Dialog.v2" timestamp="1603049668296">
+    <state x="2114" y="146" width="1632" height="581" key="MergeDialog" timestamp="1603050340874">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2472" y="234" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603049668296" />
+    <state x="2114" y="146" width="1632" height="581" key="MergeDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603050340874" />
+    <state x="2510" y="273" key="MultipleFileMergeDialog" timestamp="1603050340882">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2510" y="273" key="MultipleFileMergeDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603050340882" />
+    <state x="2472" y="234" key="Vcs.Push.Dialog.v2" timestamp="1603050350953">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="234" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603050350953" />
     <state x="2687" y="429" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603049298011">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
