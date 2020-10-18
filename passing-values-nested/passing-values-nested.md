@@ -1,16 +1,6 @@
 # Passing Values Nested
 
-This performance measurements aim to compare performance of nested component structures with updating values passed over input bindings.
-
-
-We have a 5 level deep nested component structure. On button click we increment the value.
-The value is handed over through all nested components over input bindings.
-
-In the examples the way how the value is handed over differs.
-
-Yellow circles count the number of dirty checks, red circles display the passed value.
-
-![Passing Values Nested](https://github.com/rx-angular/rx-angular-perf-measures/blob/main/passing-values-nested/passing-values-nested.png)
+---
 
 **Measurements:**
 - [Comparison Overview](https://chromedevtools.github.io/timeline-viewer/?loadTimelineFromURL=https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/passing-values-nested/passingvalues-nested__static__template%401.0.0-bata.0.json?dl=0,https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/passing-values-nested/passingvalues-nested__observable__template%401.0.0-bata.0.json?dl=0,https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/passing-values-nested/passingvalues-nested__async__template%401.0.0-bata.0.json?dl=0,https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/passing-values-nested/passingvalues-nested__push__template%401.0.0-bata.0.json?dl=0,https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/passing-values-nested/passingvalues-nested__rx-let-component__template%401.0.0-bata.0.json?dl=0,https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/passing-values-nested/passingvalues-nested__rx-let-embedded-view__template%401.0.0-bata.0.json?dl=0)
@@ -21,7 +11,24 @@ Yellow circles count the number of dirty checks, red circles display the passed 
 - [Use let directive and component based change detection](https://chromedevtools.github.io/timeline-viewer/?loadTimelineFromURL=https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/passing-values-nested/passingvalues-nested__rx-let-component__template%401.0.0-bata.0.json)
 - [Use let directive and embedded view based change detection](https://chromedevtools.github.io/timeline-viewer/?loadTimelineFromURL=https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/passing-values-nested/passingvalues-nested__rx-let-embedded-view__template%401.0.0-bata.0.json)
 
-## Statically
+---
+
+This performance measurements aim to compare performance of nested component structures with updating values passed over input bindings.
+
+## Description
+
+We have a 5 level deep nested component structure. On button click we increment the value.
+The value is handed over through all nested components over input bindings.
+
+In the examples the way how the value is handed over differs.
+
+Yellow circles count the number of dirty checks, red circles display the passed value.
+
+![Passing Values Nested](https://github.com/rx-angular/rx-angular-perf-measures/blob/main/passing-values-nested/passing-values-nested.png)
+
+## Implementations
+
+### Statically
 
 ```typescript
 
@@ -63,7 +70,7 @@ export class RecursiveStaticComponent {
 }
 ```
 
-## Observable
+### Pass Observable directly
 
 ```typescript
 @Component({
@@ -102,7 +109,7 @@ export class RecursiveObservableComponent {
 }
 ```
 
-## Async Pipe
+### Async Pipe
 
 ```typescript
 @Component({
@@ -144,7 +151,7 @@ export class RecursiveAsyncComponent {
 }
 ```
 
-## Push Pipe
+### Push Pipe
 
 ```typescript
 @Component({
@@ -187,7 +194,7 @@ export class RecursivePushComponent {
 }
 ```
 
-## LetDirective - Component based Change Detection
+### LetDirective - Component based Change Detection
 
 ```typescript
 @Component({
@@ -229,7 +236,7 @@ export class RecursiveComponentLetComponent {
 }
 ```
 
-## LetDirective - EmbeddedView based Change Detection
+### LetDirective - EmbeddedView based Change Detection
 
 ```typescript
 @Component({
