@@ -1,5 +1,16 @@
 # Passing Values Nested
 
+This performents measurements aim to compare performance of nested component structures with updating values passed over input bindings.
+
+**Measurements:**
+- [Comparison Overview](https://chromedevtools.github.io/timeline-viewer/?loadTimelineFromURL=https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/passing-values-nested/passingvalues-nested__static__template%401.0.0-bata.0.json?dl=0,https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/passing-values-nested/passingvalues-nested__observable__template%401.0.0-bata.0.json?dl=0,https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/passing-values-nested/passingvalues-nested__async__template%401.0.0-bata.0.json?dl=0,https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/passing-values-nested/passingvalues-nested__push__template%401.0.0-bata.0.json?dl=0,https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/passing-values-nested/passingvalues-nested__rx-let-component__template%401.0.0-bata.0.json?dl=0,https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/passing-values-nested/passingvalues-nested__rx-let-embedded-view__template%401.0.0-bata.0.json?dl=0)
+- [Use static values](https://chromedevtools.github.io/timeline-viewer/?loadTimelineFromURL=https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/passing-values-nested/passingvalues-nested__static__template%401.0.0-bata.0.json)
+- [Use observables directly](https://chromedevtools.github.io/timeline-viewer/?loadTimelineFromURL=https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/passing-values-nested/passingvalues-nested__push__template%401.0.0-bata.0.json)
+- [Use async pipe and observables](https://chromedevtools.github.io/timeline-viewer/?loadTimelineFromURL=https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/passing-values-nested/passingvalues-nested__async__template%401.0.0-bata.0.json)
+- [Use push pipe and observables](https://chromedevtools.github.io/timeline-viewer/?loadTimelineFromURL=https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/passing-values-nested/passingvalues-nested__push__template%401.0.0-bata.0.json)
+- [Use let directive and component based change detection](https://chromedevtools.github.io/timeline-viewer/?loadTimelineFromURL=https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/passing-values-nested/passingvalues-nested__rx-let-component__template%401.0.0-bata.0.json)
+- [Use let directive and embedded view based change detection](https://chromedevtools.github.io/timeline-viewer/?loadTimelineFromURL=https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/passing-values-nested/passingvalues-nested__rx-let-embedded-view__template%401.0.0-bata.0.json)
+
 ## Statically
 
 ```typescript
