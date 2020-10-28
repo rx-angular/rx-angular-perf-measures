@@ -48,30 +48,3 @@ The `--watch` flag is optional. Report files will be generated in the directory 
 ![Cypress side effect over time](https://github.com/rx-angular/rx-angular-perf-measures/blob/main/automated-measurement/cypress_artefact_2.png)
 
 
-## Implementations
-
-
-## Statically
-
-```typescript
-
-```
-
-## Async Pipe
-
-```typescript
-
-```
-
-## Push Pipe
-
-```typescript
-
-```
-
-## LetDirective
-
-```typescript
-
-```
-
