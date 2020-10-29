@@ -6,9 +6,9 @@
 - [Comparison Overview](https://chromedevtools.github.io/timeline-viewer/?loadTimelineFromURL=https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/updating-siblings--100/updating-siblings--100__local--animation-frame__template%401.0.0-beta.0.json?dl=0,https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/updating-siblings--100/updating-siblings--100__chunked__template%401.0.0-beta.0.json?dl=0,https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/updating-siblings--100/updating-siblings--100__postTask-user-visible__template%401.0.0-beta.0.json?dl=0,https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/updating-siblings--100/updating-siblings--100__postTask-user-blocking__template%401.0.0-beta.0.json?dl=0,https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/updating-siblings--100/updating-siblings--100__postTask-background__template%401.0.0-beta.0.json?dl=0)
 - [local - animation frame](https://chromedevtools.github.io/timeline-viewer/?loadTimelineFromURL=https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/updating-siblings--100/updating-siblings--100__local--animation-frame__template%401.0.0-beta.0.json?dl=0)
 - [chunk](https://chromedevtools.github.io/timeline-viewer/?loadTimelineFromURL=https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/updating-siblings--100/updating-siblings--100__chunked--animation-frame__template%401.0.0-beta.0.json?dl=0)
-- [postTask - user-visible](https://chromedevtools.github.io/timeline-viewer/?loadTimelineFromURL=https://github.com/rx-angular/rx-angular-perf-measures/blob/main/updating-siblings--100/updating-siblings--100__postTask-user-visible__template%401.0.0-beta.0.json?dl=0)
-- [postTask - user-blocking](https://chromedevtools.github.io/timeline-viewer/?loadTimelineFromURL=https://github.com/rx-angular/rx-angular-perf-measures/blob/main/updating-siblings--100/updating-siblings--100__postTask-user-blocking__template%401.0.0-beta.0.json?dl=0)
-- [postTask - background](https://chromedevtools.github.io/timeline-viewer/?loadTimelineFromURL=https://github.com/rx-angular/rx-angular-perf-measures/blob/main/updating-siblings--100/updating-siblings--100__postTask-background__template%401.0.0-beta.0.json?dl=0)
+- [postTask - user-visible](https://chromedevtools.github.io/timeline-viewer/?loadTimelineFromURL=https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/updating-siblings--100/updating-siblings--100__postTask-user-visible__template%401.0.0-beta.0.json?dl=0)
+- [postTask - user-blocking](https://chromedevtools.github.io/timeline-viewer/?loadTimelineFromURL=https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/updating-siblings--100/updating-siblings--100__postTask-user-blocking__template%401.0.0-beta.0.json?dl=0)
+- [postTask - background](https://chromedevtools.github.io/timeline-viewer/?loadTimelineFromURL=https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/updating-siblings--100/updating-siblings--100__postTask--user-visible__template%401.0.0-beta.0.json?dl=0)
 
 ---
 
@@ -23,7 +23,7 @@ In the examples the way how the `*rxLet` directives are configured is different 
 
 Orange boxes contain work, and empty boxes just differ in their background color.
 
-![Updating Siblings 100](https://github.com/rx-angular/rx-angular-perf-measures/blob/main/updating-siblings--100/updating-siblings--100.png)
+![Updating Siblings 100](https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/updating-siblings--100/updating-siblings--100.png)
 
 ## Implementations
 
