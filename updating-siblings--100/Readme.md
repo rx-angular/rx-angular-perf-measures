@@ -90,7 +90,7 @@ const strategy = {
 };
 ```
 
-### PostTask UserVisible Strategy
+### PostTask UserBlocking Strategy
 
 ```typescript
 const strategy = {
