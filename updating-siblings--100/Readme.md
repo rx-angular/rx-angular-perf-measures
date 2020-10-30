@@ -9,6 +9,12 @@
 - [postTask - user-visible](https://chromedevtools.github.io/timeline-viewer/?loadTimelineFromURL=https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/updating-siblings--100/updating-siblings--100__postTask--user-visible__template%401.0.0-beta.0.json?dl=0)
 - [postTask - user-blocking](https://chromedevtools.github.io/timeline-viewer/?loadTimelineFromURL=https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/updating-siblings--100/updating-siblings--100__postTask--user-blocking__template%401.0.0-beta.0.json?dl=0)
 - [postTask - background](https://chromedevtools.github.io/timeline-viewer/?loadTimelineFromURL=https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/updating-siblings--100/updating-siblings--100__postTask--background__template%401.0.0-beta.0.json?dl=0)
+- [react - idle](https://chromedevtools.github.io/timeline-viewer/?loadTimelineFromURL=https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/updating-siblings--100/updating-siblings--1000__react--idle__template@1.0.0-beta.0?dl=0)
+- [react - immediate](https://chromedevtools.github.io/timeline-viewer/?loadTimelineFromURL=https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/updating-siblings--100/updating-siblings--1000__react--immediate__template@1.0.0-beta.0?dl=0)
+- [react - low](https://chromedevtools.github.io/timeline-viewer/?loadTimelineFromURL=https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/updating-siblings--100/updating-siblings--1000__react--low__template@1.0.0-beta.0?dl=0)
+- [react - no](https://chromedevtools.github.io/timeline-viewer/?loadTimelineFromURL=https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/updating-siblings--100/updating-siblings--1000__react--no__template@1.0.0-beta.0?dl=0)
+- [react - userblocking](https://chromedevtools.github.io/timeline-viewer/?loadTimelineFromURL=https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/updating-siblings--100/updating-siblings--1000__react--userblocking__template@1.0.0-beta.0?dl=0)
+- [react - normal](https://chromedevtools.github.io/timeline-viewer/?loadTimelineFromURL=https://raw.githubusercontent.com/rx-angular/rx-angular-perf-measures/main/updating-siblings--100/updating-siblings--1000__react--normal__template@1.0.0-beta.0?dl=0)
 
 ---
 
